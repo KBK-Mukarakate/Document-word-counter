@@ -1,6 +1,5 @@
 # Document-word-counter
-Year1, Semester 2 CMP109 Portfolio project
-# TCPDoc_WordCount.py
+Year1, Semester 2 CMP109 Portfolio project TCPDoc_WordCount.py
 
 ## Description
 
